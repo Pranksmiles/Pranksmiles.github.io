@@ -6,14 +6,27 @@ body {
 }
 
 header {
-    background: #333;
+    background: #222; /* Change le fond du header à une couleur légèrement plus claire */
+}
+
+footer {
+    background: #222; /* Change le fond du footer également */
+}
+
+body {
+    background-color: #f4f4f4; /* Ajouter un fond gris clair à l'arrière-plan de la page */
+}
     color: #fff;
     padding: 10px 0;
     text-align: center;
 }
 
 section {
-    padding: 20px;
+    padding: 20px 40px; /* Ajouter du padding horizontal */
+}
+
+h2 {
+    margin-top: 30px; /* Espacer les titres des sections */
 }
 
 footer {
