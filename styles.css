@@ -1,40 +1,36 @@
+/* Styles généraux pour l'ensemble du site */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background-color: #f4f4f4; /* Fond gris clair pour un design épuré */
+    color: #333; /* Texte en gris foncé pour une meilleure lisibilité */
 }
 
+/* Styles pour le header */
 header {
-    background: #222; /* Change le fond du header à une couleur légèrement plus claire */
-}
-
-footer {
-    background: #222; /* Change le fond du footer également */
-}
-
-body {
-    background-color: #f4f4f4; /* Ajouter un fond gris clair à l'arrière-plan de la page */
-}
+    background-color: #444; /* Fond du header en gris foncé */
     color: #fff;
-    padding: 10px 0;
+    padding: 20px;
     text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Ajoute une ombre pour un effet de profondeur */
 }
 
-section {
-    padding: 20px 40px; /* Ajouter du padding horizontal */
+header img {
+    max-width: 100px;
+    margin-bottom: 10px;
 }
 
-h2 {
-    margin-top: 30px; /* Espacer les titres des sections */
+header h1 {
+    margin: 10px 0;
+    font-size: 2.5em;
 }
 
-footer {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+header p {
+    font-size: 1.2em;
 }
+
+/* Navigation principale */
+nav {
+    background-color: #555; /* Fond du menu de navigation
