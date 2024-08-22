@@ -1,29 +1,71 @@
 # Prank's ■ Mile's
 
-Bienvenue sur **Prank's ■ Mile's**, un projet de caméra cachée qui redéfinit l'art du divertissement en capturant des moments authentiques de surprise, de confusion, et surtout, de pur éclat de rire.
+![Logo de Prank's Mile's](images/LOGO-PRANKS-MILES.png)
 
-## Concept Unique
+## 🎭 Réinventons le rire, un kilomètre à la fois
 
-**Prank's ■ Mile's** est né de ma passion pour les caméras cachées et l'envie de partager des moments drôles et authentiques avec un public plus large. Chaque vidéo est conçue pour apporter du rire là où on ne s'y attend pas.
+Bienvenue sur **Prank's ■ Mile's**, le projet de caméra cachée qui redéfinit l'art du divertissement. Nous capturons des moments authentiques de surprise, de confusion, et surtout, de pur éclat de rire à travers des scénarios uniques et créatifs. 
 
-## Nos Scénarios
+### 🌐 [Visitez le site Prank's ■ Mile's](https://votre-utilisateur.github.io/votre-repository/)
 
-Voici quelques exemples de nos projets de caméra cachée :
-- **Les Courses qui se Cassent** : Je porte une pile d'assiettes dans des sacs de courses, et au moment où les passants m'aident, je laisse tomber les assiettes.
-- **Le Pétard Malaisant** : Simule un bruit embarrassant en public et observe les réactions.
-- **Perdu dans le Prank** : Demande aux passants la rue "du Prank de Mile's" pour les confondre.
-- **Pêche aux Crabes Improbable** : Pêche des crabes dans un étang avec des réactions inattendues.
-- **Le Cri dans la Bouche** : Surprend les passants en poussant un cri soudain alors qu'ils s'approchent pour aider.
+## 🛠️ Fonctionnalités
 
-## Approche Éthique
+- **Scénarios Uniques :** Découvrez nos pranks inédits, conçus pour surprendre et divertir un public large.
+- **Approche Éthique :** Chaque prank est réalisé avec respect et consentement, garantissant un divertissement sans malaise.
+- **Galerie d'Images :** Plongez dans nos scénarios à travers une galerie d'images engageantes.
+- **Design Moderne :** Un site web au design épuré et professionnel, optimisé pour tous les appareils.
 
-Nous veillons à respecter toutes les personnes que nous filmons. Après chaque tournage, nous expliquons le projet aux participants et obtenons leur consentement avant de diffuser les vidéos.
+## 📜 Scénarios Principaux
 
-## Auteur
+Voici quelques-uns de nos scénarios phares :
 
-Créé par Bechikh Miloud https://pranksmiles.github.io 
+### Les Courses qui se Cassent
 
-## Liens Utiles
+![Les Courses qui se Cassent](images/scenario1.png)
 
-- [Visitez notre site web](https://pranksmiles.github.io/)
-- [Contactez-nous] prankmiles@gmail.com
+Portez une pile d'assiettes et faites tomber les assiettes de manière inattendue, créant un moment de surprise inoubliable.
+
+### Le Pétard Malaisant
+
+![Le Pétard Malaisant](images/scenario2.png)
+
+Simulez un bruit embarrassant en public et observez les réactions autour de vous. Attention, fous rires garantis !
+
+### Perdu dans le Prank
+
+![Perdu dans le Prank](images/scenario3.png)
+
+Demandez à des passants l'adresse "du Prank de Mile's" et voyez leur confusion se transformer en éclats de rire.
+
+## 📲 Nous Contacter
+
+Pour toute question, suggestion ou proposition de collaboration, n'hésitez pas à nous contacter :
+
+- **Email:** [prankmiles@gmail.com](mailto:prankmiles@gmail.com)
+- **Suivez-nous sur les réseaux sociaux :**
+  - [Instagram](https://instagram.com)
+  - [YouTube](https://youtube.com)
+  - [Twitter](https://twitter.com)
+
+## 🚀 Comment Contribuer
+
+Nous accueillons toutes les contributions, que ce soit des idées de scénarios ou des améliorations du site web. Pour commencer :
+
+1. **Fork** ce dépôt.
+2. **Clone** votre fork sur votre machine locale.
+3. Créez une **branche** pour vos modifications : `git checkout -b nom-branche`.
+4. **Commit** vos changements : `git commit -m 'Ajout de fonctionnalités X'`.
+5. **Push** vers GitHub : `git push origin nom-branche`.
+6. Créez une **Pull Request** et nous examinerons vos propositions avec plaisir !
+
+## 📜 Licence
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+## 💡 Remerciements
+
+Merci à tous ceux qui ont participé à rendre ce projet possible. Votre soutien est ce qui nous permet de continuer à faire sourire et rire des milliers de personnes.
+
+---
+
+© 2024 Prank's ■ Mile's. Tous droits réservés.
