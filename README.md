@@ -1,6 +1,6 @@
 # Prank's ■ Mile's
 
-![Logo de Prank's Mile's](images/LOGO-PRANKS-MILES.png)
+![Logo de Prank's Mile's]<img src="assets/images/LOGO-PRANKS-MILES.png" alt="Logo de Prank's Mile's">
 
 ## 🎭 Réinventons le rire, un kilomètre à la fois
 
